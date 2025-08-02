@@ -1,7 +1,4 @@
 # Insurance-Data-Analytics
-Here's a **concise, professional, and well-structured README description** for your **Insurance Data Analysis** project, tailored for GitHub:
-
----
 
 ## 🧾 Insurance Data Analysis Dashboard
 
@@ -68,6 +65,9 @@ To help business stakeholders:
 ---
 
 ### 🧭 **Visual Walkthrough**
+Screenshot of dashboard
+https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance%20dashboard.PNG
+
 
 
 ### 📈 **Business Impact**
