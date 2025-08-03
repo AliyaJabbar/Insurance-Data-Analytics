@@ -67,6 +67,7 @@ To help business stakeholders:
 ### 🧭 **Visual Walkthrough**
 Screenshot of dashboard
 https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance%20dashboard.PNG
+![Insurance Dashboard](https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance%20dashboard.PNG?raw=true)
 
 
 
