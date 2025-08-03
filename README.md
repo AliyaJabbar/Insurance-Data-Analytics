@@ -5,13 +5,6 @@
 
 This project is a comprehensive and interactive **Power BI dashboard** built to analyze real-world insurance data. It provides actionable insights across key metrics such as policy types, customer demographics, premium and claim distribution, and claim statuses. The dashboard is designed to serve as a decision-making tool for stakeholders in the insurance industry — including analysts, operations managers, customer support teams, and even marketing departments — by helping them track performance, detect trends, and optimize policy strategies.
 
-![Insurance Dashboard](https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance%20dashboard.PNG?raw=true)
-
-
-### 🔁 Dashboard Preview
-
-![Dashboard Demo](https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance_dashboard_demo.gif?raw=true)
-
 
 ### 🎯 **Purpose**
 
@@ -72,7 +65,15 @@ This dashboard provides:
 
 All visual elements are **interactive**, helping users explore and analyze data from multiple angles in seconds.
 
----
+--- 
+
+![Insurance Dashboard](https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance%20dashboard.PNG?raw=true)
+
+
+### 🔁 Dashboard Preview
+
+![Dashboard Demo](https://github.com/AliyaJabbar/Insurance-Data-Analytics/blob/main/insurance_dashboard_demo.gif?raw=true)
+
 
 ### 🧠 **Business Problem**
 
